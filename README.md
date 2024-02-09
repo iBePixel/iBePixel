@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @iBePixel
-- 👀 I’m interested in Tech, Mountain Biking and gaming.
-- 🌱 I’m currently learning Javascript and AWS
-- 💞️ I’m looking to collaborate on any Python, Javascript or Powershell projects I can gain experience on. 
 - 📫 How to reach me Twitter - @iBePixel
 
 <!---
