@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iBePixel
+- 👋 Hi, I’m Elliott
 - 📫 How to reach me Twitter - @iBePixel
 
 <!---
